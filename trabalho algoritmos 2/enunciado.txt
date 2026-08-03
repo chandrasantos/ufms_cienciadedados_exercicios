@@ -1,0 +1,23 @@
+Desenvolver programas que manipulam arquivos é uma habilidade essencial para programadores, porque permite lidar com grandes volumes de dados de forma eficiente e organizada.
+
+Sua tarefa é desenvolver um programa em Python que leia um arquivo de texto e substitua todas as vogais encontradas por símbolos predefinidos, gerando um novo arquivo com o texto codificado.
+
+Orientações para elaboração e entrega da atividade:
+
+Pesquise na Internet e copie a letra de uma música que você goste.
+Abra o programa de bloco de notas do seu sistema operacional.
+Cole o texto da letra da música.
+Salve o arquivo com o nome “musica.txt”.
+Crie um novo script em Python no mesmo diretório em que salvou o arquivo da música.
+Desenvolva um programa em Python que leia o conteúdo do arquivo e processe cada caractere, substituindo as vogais, conforme a tabela abaixo:
+a	!
+e	@
+i	#
+o	$
+u	%
+O programa deverá escrever o texto codificado em um novo arquivo de saída, cujo nome será informado pelo usuário.
+Ao final, informe ao usuário que a conversão foi concluída com sucesso.
+Realize capturas de tela do arquivo da música original e da música convertida.
+Crie um arquivo no editor de texto de sua preferência (ex: LibreOffice Writer, Microsoft Word) e insira as capturas de tela realizadas.
+Copie também, para o arquivo de texto, o código Python desenvolvido.
+Envie o arquivo de texto no espaço da tarefa do AVA.
